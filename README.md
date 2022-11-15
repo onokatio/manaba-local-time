@@ -8,4 +8,4 @@ ViolentMonkeyで動作確認をしてますが、多分他でも動きます。
 
 ## インストール
 
-https://github.com/onokatio/manaba-local-time/raw/master/ManabaLocalTime.js
+https://github.com/onokatio/manaba-local-time/raw/master/ManabaLocalTime.user.js
