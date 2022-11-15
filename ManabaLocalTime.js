@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        manaba local time
-// @namespace   Violentmonkey Scripts
+// @namespace   https://github.com/onokatio/manaba-local-time
 // @match       https://manaba.tsukuba.ac.jp/ct/home_library_query
 // @grant       none
 // @version     1.0
